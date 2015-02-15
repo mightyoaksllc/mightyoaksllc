@@ -1,5 +1,6 @@
 # Site settings
-title: My Blog - Mighty Oaks, LLC -img: img/home-bg.jpg 
+title: My Blog - Mighty Oaks, LLC 
+img: img/home-bg.jpg 
 email: bryan@mightyoaksllc.com 
 description: "We buy, sell, renovate and rent houses in the Raleigh Triangle and Metro Detroit." 
 baseurl: ""
