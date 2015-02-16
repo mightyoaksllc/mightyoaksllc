@@ -2,9 +2,9 @@
 layout:     post
 title:      "Selling a house can be more expensive than you think"
 subtitle:   "Talk to anyone who's just sold a home, and you'll probably see some eye-rolling as they recount how the supposed profits were undercut by one expense after another."
-date:       2/15/2015 7:30:15 PM 
+date:       2/15/2015 7:30:15 
 author:     "Bryan"
-
+header-img: ""
 ---
 
 # Before the Sale: Expenses to Expect #
